@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/circles/static/css/main.5fce00a6.css",
+    "main.js": "/circles/static/js/main.2a8981a8.js",
+    "index.html": "/circles/index.html",
+    "main.5fce00a6.css.map": "/circles/static/css/main.5fce00a6.css.map",
+    "main.2a8981a8.js.map": "/circles/static/js/main.2a8981a8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5fce00a6.css",
+    "static/js/main.2a8981a8.js"
+  ]
+}
